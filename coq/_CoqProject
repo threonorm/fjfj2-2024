@@ -1,0 +1,32 @@
+-R src/ Fjfj 
+-Q Coquetier/sponge/theories egg
+-I Coquetier/sponge/src
+src/LangFjfj2.v
+src/ListTheory.v
+src/reg.v
+src/Indexification.v
+src/ArithFacts.v
+src/IdentParsing.v
+src/FjfjParsing.v
+src/Tactics.v
+src/Fifo.v
+src/FifoSpec.v
+src/TransitionNotation.v
+src/Fifo1Correct.v
+src/Fifo1Correct2.v
+src/RfSpec.v
+src/RfScored.v
+src/LoadBuffer.v
+src/LoadBufferStoresafe.v
+src/Nondet.v
+src/PipelineExample.v
+# src/Memory.v
+src/MemoryUntagged.v
+src/SimpleMemory.v
+src/NonModularProcessor.v
+# src/Processor.v
+# src/FullSystem.v
+# src/Scoreboard.v
+# src/RfScored.v
+# src/RfScoredImpl.v
+# src/Backend.v
